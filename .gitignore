@@ -1,0 +1,5 @@
+.env
+env/
+.idea/
+.clean_coder/
+__pycache__/
